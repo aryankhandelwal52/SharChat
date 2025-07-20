@@ -32,16 +32,6 @@ A full-stack real-time chat application built using the **MERN stack (MongoDB, E
 
 ---
 
-## 📸 Screenshots
-
-> *(Add these screenshots in a `/screenshots` folder)*  
-> Example: `client/public/screenshots/chat-ui.png`
-
-- Main Chat Interface  
-![Chat UI](screenshots/chat-ui.png)
-
-- AI Command Feature  
-![AI Broadcast](screenshots/ai-command.png)
 
 ---
 
