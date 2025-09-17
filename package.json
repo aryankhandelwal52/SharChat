@@ -1,0 +1,21 @@
+{
+  "name": "my_real_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "build":"",
+   "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryankhandelwal52/SharChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryankhandelwal52/SharChat/issues"
+  },
+  "homepage": "https://github.com/aryankhandelwal52/SharChat#readme",
+  "description": ""
+}
